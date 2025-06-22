@@ -42,7 +42,8 @@ Davinci-Resolve-Auto-Render-tool
 
 > ROYALTY FREE
 
-- Servida Stream: https://www.youtube.com/watch?v=1sKw1D-NtwgI
+- Servida Stream: [https://www.youtube.com/watch?v=1sKw1D-NtwgI]
+- r/loopkits: [https://www.reddit.com/r/loopkits/?f=flair_name%3A%22Royalty%20Free%22]
 
 ## Tools
 
