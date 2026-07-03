@@ -8,6 +8,8 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 
 > Place items here until they can be categorized, or if you're unsure where to put them
 
+[FFmpeg Encoder Plugin for DaVinci Resolve Studio](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin)
+
 ## Plugin
 
 > The free plugin will be in the [plugin](./plugin) folder if you're feeling lazy. However, it won't be up-to-date and will only include free plugins. Please refrain from adding anything from the black market to this repository.
