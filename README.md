@@ -10,6 +10,8 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 
 [FFmpeg Encoder Plugin for DaVinci Resolve Studio](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin)
 
+[DaVinci Resolve keyboard shortcuts for Windows, macOS and Linux](https://hkeys.app/apps/davinci-resolve) - printable cheat sheet per page, plus a drill that quizzes you on the shortcuts
+
 ## Plugin
 
 > The free plugin will be in the [plugin](./plugin) folder if you're feeling lazy. However, it won't be up-to-date and will only include free plugins. Please refrain from adding anything from the black market to this repository.
