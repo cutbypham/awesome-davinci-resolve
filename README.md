@@ -1,6 +1,9 @@
 # Awesome stuff about Davinci Resolve
 
-Any valuable resources related to Resolve are welcome for contribution, including plugins, blogs, tutorials, and more.
+Any valuable resources related to Resolve are welcome for contribution, including plugins, blogs, tutorials, and more
+
+> [!CAUTION]
+> this list is strictly for 100% free plugins and free tiers. no paid trials allowed
 
 > If you'd like to contribute but aren't familiar with using Git or GitHub, and are a bit lazy like me, you can send it to me at [cutbypham@gmail.com](mailto:cutbypham@gmail.com)
 
