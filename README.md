@@ -11,8 +11,6 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 
 > Place items here until they can be categorized, or if you're unsure where to put them
 
-[FFmpeg Encoder Plugin for DaVinci Resolve Studio](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin)
-
 ## Plugin
 
 > The free plugin will be in the [plugin](./plugin) folder if you're feeling lazy. However, it won't be up-to-date and will only include free plugins. Please refrain from adding anything from the black market to this repository.
@@ -26,6 +24,7 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - [Editor Collection lite](https://wipptemplates.com/product/editorcollection-lite/)
 - [Blanking Generator](https://ko-fi.com/s/9eace83843)
 - [Frosted Glass](https://ko-fi.com/s/f6b8f08512)
+- [FFmpeg Encoder Plugin for DaVinci Resolve Studio](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin)
 
 ## Resource
 
