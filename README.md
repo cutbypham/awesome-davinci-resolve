@@ -50,5 +50,4 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - <https://getyarn.io/yarn-find> search for word or phrase for tv, movies, and music clips
 - <https://ahrefs.com/youtube-keyword-tool> keyword data
 - [SoundQ](https://www.prosoundeffects.com/soundq/) good free plan sound effects manager
-- Basehead: good free plan sound effects manager (faster than soundq)
 - [DaVinci Resolve Keyboard Shortcut Training and Cheat Sheets](https://hkeys.app/apps/davinci-resolve) - printable cheat sheet per page, plus a drill that quizzes you on the shortcuts
