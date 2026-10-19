@@ -42,6 +42,10 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 
 - r/loopkits: [https://www.reddit.com/r/loopkits/?f=flair_name%3A%22Royalty%20Free%22]
 
+### YouTube
+
+- [Editor Josh](https://www.youtube.com/@TheEditorJosh)
+
 ## Tools
 
 - <https://getyarn.io/yarn-find> search for word or phrase for tv, movies, and music clips
