@@ -17,6 +17,7 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - [Snap Captions](https://github.com/licitfree/snap-captions): Snap Captions is designed to make creating fancy captions faster and easier than ever before!
 - [Davinci Resolve AI Subtitles](https://github.com/tmoroney/auto-subs): great python script for autosubs on free resolve
 - [Reactor](https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067): Fusion plugin manager
+- [ClipDock](https://github.com/Srcanesen/ClipDock): free, open-source Workflow Integration panel for Resolve Studio that searches YouTube, Pexels and Pinterest and downloads clips straight into the Media Pool or timeline
 - [Magic Animation](https://ko-fi.com/s/c83d7e91f7)
 - [Magic zoom](https://ko-fi.com/s/ed372d12c6)
 - [Editor Collection lite](https://wipptemplates.com/product/editorcollection-lite/)
