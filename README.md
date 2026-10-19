@@ -43,7 +43,7 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - r/loopkits: [https://www.reddit.com/r/loopkits/?f=flair_name%3A%22Royalty%20Free%22]
 
 ### YouTube
-
+> most people on youtube try to sell you something, but at least they provide good value in their videos
 - [Editor Josh](https://www.youtube.com/@TheEditorJosh)
 
 ## Tools
