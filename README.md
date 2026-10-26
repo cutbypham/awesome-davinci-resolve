@@ -40,6 +40,7 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 > ROYALTY FREE
 
 - r/loopkits: [https://www.reddit.com/r/loopkits/?f=flair_name%3A%22Royalty%20Free%22]
+- [Soundza](https://soundza.com): free sound effects, music loops and ambience, free for commercial use with no attribution needed
 
 ### YouTube
 > most people on youtube try to sell you something, but at least they provide good value in their videos
