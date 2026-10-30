@@ -41,6 +41,7 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 
 - r/loopkits: https://www.reddit.com/r/loopkits/search/?q=Royalty+Free
 - [Soundza](https://soundza.com): free sound effects, music loops and ambience, free for commercial use with no attribution needed
+- [DailySounds](https://dailysounds.org/?ref=davinci): free sound effects (MP3/WAV/OGG, no account), free for commercial use with credit optional
 
 ### YouTube
 > most people on youtube try to sell you something, but at least they provide good value in their videos
