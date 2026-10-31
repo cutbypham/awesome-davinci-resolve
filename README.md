@@ -25,6 +25,7 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - [Blanking Generator](https://ko-fi.com/s/9eace83843)
 - [Frosted Glass](https://ko-fi.com/s/f6b8f08512)
 - [FFmpeg Encoder Plugin for DaVinci Resolve Studio](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin)
+- [Krispy Tools](https://github.com/ENDO1996/krispy-tools): 17 free tools for Resolve Studio: captions and subtitle translation, version-diff markers, marker render queues and batch timeline automation
 
 ## Resource
 
