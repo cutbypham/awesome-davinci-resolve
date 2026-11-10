@@ -54,3 +54,4 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - [SoundQ](https://www.prosoundeffects.com/soundq/) good free plan sound effects manager
 - [DaVinci Resolve Keyboard Shortcut Training and Cheat Sheets](https://hkeys.app/apps/davinci-resolve) - printable cheat sheet per page, plus a drill that quizzes you on the shortcuts
 - [imgmov Last-Frame Extractor](https://imgmov.com/extract-last-frame-from-video) - Free browser tool to select a frame near a video's end and export a PNG for review or editing handoffs.
+- [Rooftop Crop Checker](https://seedancecheap.com/tools/rooftop-crop-checker) - Free browser preview for comparing fit and fill at 9:16. Mark a hand, foot, or prop and see whether the crop keeps it in frame.
