@@ -25,7 +25,6 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - [Blanking Generator](https://ko-fi.com/s/9eace83843)
 - [Frosted Glass](https://ko-fi.com/s/f6b8f08512)
 - [FFmpeg Encoder Plugin for DaVinci Resolve Studio](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin)
-- [Krispy Tools](https://github.com/ENDO1996/krispy-tools): 17 free tools for Resolve Studio: captions and subtitle translation, version-diff markers, marker render queues and batch timeline automation
 
 ## Resource
 
@@ -53,4 +52,3 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - <https://getyarn.io/yarn-find> search for word or phrase for tv, movies, and music clips
 - [SoundQ](https://www.prosoundeffects.com/soundq/) good free plan sound effects manager
 - [DaVinci Resolve Keyboard Shortcut Training and Cheat Sheets](https://hkeys.app/apps/davinci-resolve) - printable cheat sheet per page, plus a drill that quizzes you on the shortcuts
-- [imgmov Last-Frame Extractor](https://imgmov.com/extract-last-frame-from-video) - Free browser tool to select a frame near a video's end and export a PNG for review or editing handoffs.
