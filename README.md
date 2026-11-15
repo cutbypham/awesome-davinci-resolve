@@ -34,6 +34,7 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 
 - [Animated textures](https://www.premiumbeat.com/blog/free-animated-textures/)
 - [cinepacks free stuff](https://cinepacks.store/collections/free-packs)
+- [VHS Filter](https://vhsfilter.com/) - Browser tool with a free tier for adding tape noise, scanlines, and timestamps to photos or short clips.
 
 ### Sound
 
