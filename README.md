@@ -13,8 +13,6 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 
 ## Plugin
 
-> The free plugin will be in the [plugin](./plugin) folder if you're feeling lazy. However, it won't be up-to-date and will only include free plugins. Please refrain from adding anything from the black market to this repository.
-
 - [Snap Captions](https://ko-fi.com/s/67e49a15e7): Snap Captions is designed to make creating fancy captions faster and easier than ever before!
 - [Davinci Resolve AI Subtitles](https://github.com/tmoroney/auto-subs): great python script for autosubs on free resolve
 - [Reactor](https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067): Fusion plugin manager
