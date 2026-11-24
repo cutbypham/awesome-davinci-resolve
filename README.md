@@ -51,3 +51,4 @@ Any valuable resources related to Resolve are welcome for contribution, includin
 - <https://getyarn.io/yarn-find> search for word or phrase for tv, movies, and music clips
 - [SoundQ](https://www.prosoundeffects.com/soundq/) good free plan sound effects manager
 - [DaVinci Resolve Keyboard Shortcut Training and Cheat Sheets](https://hkeys.app/apps/davinci-resolve) - printable cheat sheet per page, plus a drill that quizzes you on the shortcuts
+- [Lower Thirds Skills](https://github.com/iart-ai/lower-thirds-skills): free, MIT-licensed skill for AI coding agents that makes animated lower thirds and exports them as ProRes 4444 with alpha, ready to drop on a Resolve timeline
